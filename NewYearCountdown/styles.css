@@ -1,0 +1,71 @@
+body{
+    background-image: url(image.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    position: absolute;
+    top:18%;
+    left:26%;
+    font-size: 80px;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#count{
+    display: flex;
+    font-size: 60px;
+    position: absolute;
+    top:40%;
+    left:19%;
+   
+
+}
+
+ #letter{
+    margin: 30px ;
+    padding-top: 20px;
+    width: 180px;
+    height:150px;
+    text-align: center;
+    background-color: rgb(57, 56, 56);
+
+}
+
+#letter1{
+    margin: 30px ;
+    padding-top: 20px;
+    width: 180px;
+    height:150px;
+    text-align: center;
+    background-color: rgb(57, 56, 56);
+
+}
+#letter2{
+    margin: 30px ;
+    padding-top: 20px;
+    width: 180px;
+    height:150px;
+    text-align: center;
+    background-color: rgb(57, 56, 56);
+
+}
+#letter3{
+    margin: 30px ;
+    padding-top: 20px;
+    width: 180px;
+    height:150px;
+    text-align: center;
+    background-color: rgb(57, 56, 56);
+
+}
+
+#newyear{
+    position: absolute;
+    top:80%;
+    left:46%;
+    font-size: 70px;
+} 
